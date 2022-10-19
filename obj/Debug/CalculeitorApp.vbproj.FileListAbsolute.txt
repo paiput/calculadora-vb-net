@@ -1,0 +1,12 @@
+D:\vb-net\CalculeitorApp\bin\Debug\CalculeitorApp.exe.config
+D:\vb-net\CalculeitorApp\bin\Debug\CalculeitorApp.exe
+D:\vb-net\CalculeitorApp\bin\Debug\CalculeitorApp.pdb
+D:\vb-net\CalculeitorApp\bin\Debug\CalculeitorApp.xml
+D:\vb-net\CalculeitorApp\obj\Debug\CalculeitorApp.vbproj.AssemblyReference.cache
+D:\vb-net\CalculeitorApp\obj\Debug\CalculeitorApp.Form1.resources
+D:\vb-net\CalculeitorApp\obj\Debug\CalculeitorApp.Resources.resources
+D:\vb-net\CalculeitorApp\obj\Debug\CalculeitorApp.vbproj.GenerateResource.cache
+D:\vb-net\CalculeitorApp\obj\Debug\CalculeitorApp.vbproj.CoreCompileInputs.cache
+D:\vb-net\CalculeitorApp\obj\Debug\CalculeitorApp.exe
+D:\vb-net\CalculeitorApp\obj\Debug\CalculeitorApp.xml
+D:\vb-net\CalculeitorApp\obj\Debug\CalculeitorApp.pdb
